@@ -7,7 +7,7 @@
 
 ## About Me 
 
-First a programmer, then a mentor. Taught a couple of students of Java, Python, and Databases.
+First, a programmer; then, a mentor. Now, I am strategically pivoting into data engineering.
 
 
 
