@@ -7,7 +7,7 @@
 
 ## About Me 
 
-First, a programmer; then, a mentor. Now, I am strategically pivoting into data engineering.
+First, a programmer; then, a mentor. Now, I am strategically pivoting into data engineering | MLOps.
 
 
 <br />
