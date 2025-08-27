@@ -2,7 +2,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/olasyusuf/olasyusuf/main/Assets/olasyusuf.png" alt="Banner Image">
+  <img src="olasyusuf-banner.png" alt="Banner Image">
 </p>
 
 ## About Me 
