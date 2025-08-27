@@ -11,4 +11,6 @@ First, a programmer; then, a mentor. Now, I am strategically pivoting into data 
 
 
 <br />
+<br />
+<br />
 <img src="https://komarev.com/ghpvc/?username=olasyusuf&style=flat-square&color=blue" alt=""/>
